@@ -1219,3 +1219,26 @@ Kuon (utawarerumono)||Utawarerumono||http://cdn.myanimelist.net/images/character
 Mishima Akane||Kampfer||http://cdn.myanimelist.net/images/characters/3/70137.jpg
 Sangou Shizuku||Kampfer||http://cdn.myanimelist.net/images/characters/12/123317.jpg
 Senou Natsuru||Kampfer||http://cdn.myanimelist.net/images/characters/15/88585.jpg
+
+Kazama Levi||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/2/145505.jpg
+Asami Lilith||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/9/269177.jpg
+Sherlock Lieselotte||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/11/266139.jpg
+Fudou Akio||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/11/263597.jpg
+Arin Kannazuki||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/7/263599.jpg
+Yui Kurata||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/4/290629.jpg
+Mira Yamana||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/15/268851.jpg
+Ilia||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/6/311877.jpg
+Hijiri Kasuga||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/3/262233.jpg
+Lugh||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/11/277790.jpg
+Selina Sherlock||Trinity Seven||https://myanimelist.cdn-dena.com/images/characters/14/288815.jpg
+
+Mirei Shikishima||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/10/301139.jpg
+Mamori Tokonome||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/15/293508.jpg
+Rayne Hasumi||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/16/303289.jpg
+Akira Hiiragi||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/8/303287.jpg
+Torino Kazami||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/14/303292.jpg
+Lady J||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/7/303290.jpg
+Momoka Sagara||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/5/303291.jpg
+Meifon Sakura||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/8/283414.jpg
+Charlotte Scherzen||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/14/293507.jpg
+Kasumi Shigure||Valkyrie Drive: Mermaid||https://myanimelist.cdn-dena.com/images/characters/7/303294.jpg
